@@ -307,7 +307,7 @@ iperparametri, questi sono i risultati che abbiamo ottenuto sul set di test (20 
 
 ### Reti Neurali
 
-- 3 layers nascosti (64,128,64), dropout 20%, batch_size=64, learning rate=0.001  
+- 3 layerss nascosti (64,128,64), dropout 20%, batch_size=64, learning rate=0.001  
 - Accuracy media: 0.8406  
 - Precision media: 0.8400  
 - Recall media: 0.8406  
